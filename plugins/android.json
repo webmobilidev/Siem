@@ -8,43 +8,43 @@
     },
     "installed_plugins": {
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.siemceramiche"
         }
     }
 }
